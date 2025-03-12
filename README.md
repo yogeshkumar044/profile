@@ -1,70 +1,53 @@
-# Getting Started with Create React App
+# 💻 Yogesh Kumar - Developer & Engineer  
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## 🏆 About Me  
+I am a passionate developer currently pursuing a **Bachelor of Technology in Chemical Engineering** at **IIT Jodhpur** (Expected Graduation: 2026). I have a strong interest in full-stack development, machine learning, and scalable web applications.  
 
-## Available Scripts
+## 🚀 Technical Skills  
+- **Programming Languages**: JavaScript, Python, C, C++, HTML, CSS  
+- **Web Technologies**: React.js, Redux, Node.js, Express.js, MongoDB, Appwrite, Next.js  
+- **Frameworks & Libraries**: Tailwind CSS, Bootstrap  
+- **Developer Tools**: Git, GitHub, Postman, VS Code  
+- **Software Development Concepts**: RESTful APIs, Microservices, WebSockets, JWT, OAuth  
 
-In the project directory, you can run:
+## 📚 Education  
+🎓 **Indian Institute of Technology, Jodhpur**  
+**B.Tech in Chemical Engineering** | CGPA: 6.68/10 | 2026  
 
-### `npm start`
+🎓 **Central Academy School, Ajmer**  
+Class 12 (Science - PCM) | 2022  
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## 💡 Projects  
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### 🎥 **Video Browsing Platform** ([Frontend](https://github.com/yogeshkumar044/VideoTube-vite--frontend.git) | [Backend](https://github.com/yogeshkumar044/Video_Tube-Backend.git))  
+- Developed a full-stack video-sharing platform with **React.js, Node.js, MongoDB, and Cloudinary** for seamless video uploads and optimized streaming.  
+- Integrated **JWT-based authentication** and **Redux state management**, reducing login failures by 30%.  
+- Optimized backend queries, **improving video load times by 20%**.  
 
-### `npm test`
+### 🚗 **Real-Time Ride-Sharing Platform** ([Frontend](https://github.com/yogeshkumar044/Ride-Sharing-frontend-vite.git) | [Backend](https://github.com/yogeshkumar044/Ride-Sharing-backend.git))  
+- Built a scalable ride-sharing system using **React.js, Node.js, Express.js, MongoDB**, and **OpenStreetMap** for real-time location tracking.  
+- Developed an optimized **driver-passenger matching system**, reducing ride allocation time by 40%.  
+- Integrated **Stripe payments**, increasing checkout success rates by 25%.  
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 🎯 Achievements  
+🏆 **95.3 percentile in JEE Mains 2022** (Among 1 million candidates)  
+🏆 **AIR 17708 in JEE Advanced 2022** (Among 1 million candidates)  
 
-### `npm run build`
+## 🎓 Relevant Courses  
+- Machine Learning  
+- Data Structures and Algorithms  
+- Probability, Statistics, and Stochastic Processes  
+- Introduction to C  
+- **Udemy Courses**: C++, Data Structures & Algorithms (DSA)  
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 👨‍💻 Positions of Responsibility  
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### 🌐 **Web Development Head** | **Varchas '24, IIT Jodhpur’s Annual Sports Fest** (Aug 2024 – Oct 2024)  
+- Led a **team of 6 developers** to design and deploy a high-traffic website with **99.9% uptime**.  
+- Enhanced UI/UX, reducing bounce rates by 20%.  
+- Optimized website performance by 30% using code refactoring, image compression, and lazy loading.  
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## 📫 Contact  
+📧 Email: [yogeshkumar.work044@gmail.com](mailto:yogeshkumar.work044@gmail.com)  
+🔗 LinkedIn: [linkedin.com/in/yogesh-kumar044](https://www.linkedin.com/in/yogesh-kumar044/)  
+🐙 GitHub: [github.com/yogeshkumar044](https://github.com/yogeshkumar044)  
